@@ -1,0 +1,2 @@
+PaddleMoveUnitsPerSecond,Ball Impulse Force,BallDeath Timer,New ball movement delay,MinBallSpawnDelay,MaxBallSpawnDelay,Standard Block Points,Bonus Block Points,Pickup Block Points,Number of Balls ,StandardBlockProbability,BonusBlockProbability,FreezerBlockProbability,SpeedUpBlockProbability,Freezer Effect Duration,Speedup Duration
+30,900,10,2,20,25,50,100,120,10,70,20,5,5,1,1
